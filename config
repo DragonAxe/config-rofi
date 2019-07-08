@@ -1,0 +1,5 @@
+rofi.combi-modi: drun,run,ssh
+#rofi.theme: Monokai
+rofi.theme: ~/.config/rofi/theme.rasi
+rofi.modi: combi
+#rofi.font: hack 10
